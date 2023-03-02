@@ -1,0 +1,32 @@
+body
+{
+    color: green;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+width: 70%;
+padding: 1em;
+text-align: left;
+border: 1px solid #ddd;
+margin: 0 auto;
+}
+#Container h1
+{
+    font-size: 20px;
+
+}
+#cabecera
+{
+    background: green;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0, 75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+}
